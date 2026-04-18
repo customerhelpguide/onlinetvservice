@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://onlinetvservice.readthedocs.io/en/latest/
